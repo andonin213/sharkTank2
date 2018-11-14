@@ -1,6 +1,9 @@
 @charset "UTF-8";
 /* CSS Document */
 
-.mySlides {
+.mySlide {
 	display: none;
+}
+#home-about{
+	background-color: #853435;
 }
