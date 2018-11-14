@@ -5,5 +5,24 @@
 	display: none;
 }
 #home-about{
-	background-color: #853435;
+	background-color: #B32E30;
+	margin-bottom: 50px;
+	padding-bottom: 25px;
+	padding-top: 25px;
+	
+}
+.team-images{
+	height: 200px;
+	margin-bottom: 50px;
+}
+.buttons{
+	padding: 6px;
+	background-color: #000000;
+	color: aliceblue;
+	border-radius: 7px;
+	overflow: hidden;
+}
+.buttons:hover{
+	background-color: #FDFDFD;
+	color: #000000;
 }
