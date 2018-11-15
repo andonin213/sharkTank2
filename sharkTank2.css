@@ -4,7 +4,7 @@
 .mySlide {
 	display: none;
 }
-#home-about{
+#home-about, #home-product{
 	background-color: #B32E30;
 	margin-bottom: 50px;
 	padding-bottom: 25px;
@@ -25,4 +25,15 @@
 .buttons:hover{
 	background-color: #FDFDFD;
 	color: #000000;
+}
+#team-img{
+	margin-bottom: 40px;
+	padding-bottom: 40px;
+	margin-top: 40px;
+	padding-top: 40px;
+}
+#home-fitness{
+	margin-bottom: 50px;
+	padding-bottom: 25px;
+	padding-top: 25px;
 }
