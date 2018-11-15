@@ -1,0 +1,39 @@
+@charset "UTF-8";
+/* CSS Document */
+
+.mySlide {
+	display: none;
+}
+#home-about, #home-product{
+	background-color: #B32E30;
+	margin-bottom: 50px;
+	padding-bottom: 25px;
+	padding-top: 25px;
+	
+}
+.team-images{
+	height: 200px;
+	margin-bottom: 50px;
+}
+.buttons{
+	padding: 6px;
+	background-color: #000000;
+	color: aliceblue;
+	border-radius: 7px;
+	overflow: hidden;
+}
+.buttons:hover{
+	background-color: #FDFDFD;
+	color: #000000;
+}
+#team-img{
+	margin-bottom: 40px;
+	padding-bottom: 40px;
+	margin-top: 40px;
+	padding-top: 40px;
+}
+#home-fitness{
+	margin-bottom: 50px;
+	padding-bottom: 25px;
+	padding-top: 25px;
+}
