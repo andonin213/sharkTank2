@@ -12,7 +12,6 @@
 	
 }
 .team-images{
-	height: 200px;
 	margin-bottom: 50px;
 }
 .buttons{
@@ -36,4 +35,8 @@
 	margin-bottom: 50px;
 	padding-bottom: 25px;
 	padding-top: 25px;
+}
+#group-pic{
+  margin-right: 40px;
+  padding-right: 40px;
 }
